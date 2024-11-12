@@ -16,9 +16,9 @@ Total Stops Count
 Airline List
 ## Summary Metrics
 
-### Sum of Price: 97M, indicating the total price across all flights.
+Sum of Price: 97M, indicating the total price across all flights.
 
-### First Airline: Jet Airways, highlighting the airline with the maximum price contribution.
+First Airline: Jet Airways, highlighting the airline with the maximum price contribution.
 
 ## Screenshots
 
